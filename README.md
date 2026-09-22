@@ -22,8 +22,10 @@ In questa sezione, l'obiettivo è studiare la relazione geometrica tra le posizi
 ## Parte 2: Dinamica e Controllo
 In questa sezione, l'obiettivo è far muovere fisicamente il robot nel tempo, tenendo conto delle coppie (torques) applicate ai motori dei giunti e implementando un sistema ad anello chiuso per far seguire al robot una traiettoria specifica in modo automatico. (**[esercizio_7](esercizio_7/esercizio_7/)**)
 
-**OSS.**
-In tutte le cartelle il file pdf presenta la consegna dell'esercizio e i file nominati (_codice) racchiudono solo il codice MATLAB poi implementato in **MATLAB App Designer**
+---
+
+**OSS.**  
+In tutte le cartelle il file pdf presenta la consegna dell'esercizio e i file nominati "codice" racchiudono solo il codice MATLAB poi implementato in **MATLAB App Designer**
 
 ---
 
